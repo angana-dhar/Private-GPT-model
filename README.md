@@ -31,11 +31,6 @@ time, logging for monitoring and maintenance
 Usage
 Install dependencies:
 
-Copy code
 pip install requests beautifulsoup4 transformers torch
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your_username/hospital-data-web-scraping.git
-cd hospital-data-web-scraping
